@@ -4,5 +4,5 @@
   Hello, my name is Luan da Silva
 I live in Rondonópolis, Mato Grosso.
   
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas , 
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
 e starting now in the .NET and C # programming world, looking for my first opportunity!
