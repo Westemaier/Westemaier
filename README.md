@@ -5,4 +5,4 @@
 I live in Rondonópolis, Mato Grosso.
   
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas , 
-I'm starting now in the .NET and C # programming world, looking for my first opportunity!
+e starting now in the .NET and C # programming world, looking for my first opportunity!
